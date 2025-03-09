@@ -3,10 +3,10 @@ Trabalho acadêmico realizado para a criação do jogo de cartas "Rouba Monte", 
 
 # Instruções de desenvolvimento
 
-<li> <a href="Game-Rouba-Monte/Docs
+<li> <a href="Docs
 /Trabalho_Prático.pdf"> Instruções </a></li>
 
 # Arquivo do Código
-<li> <a href="Game-Rouba-Monte/Docs
+<li> <a href="Docs
 /RoubaMonte.cs
 "> Código </li>
