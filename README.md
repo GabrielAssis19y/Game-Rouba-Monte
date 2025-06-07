@@ -7,6 +7,6 @@ Trabalho acadêmico realizado para a criação do jogo de cartas "Rouba Monte", 
 /Trabalho_Prático.pdf"> Instruções </a></li>
 
 ## Arquivo do Código
-<li> <a href="Docs
+<li> <a href="Public
 /RoubaMonte.cs
 "> Código </li>
